@@ -1,0 +1,4 @@
+Devel-Confess-Source-Patch-ExcludePackage-*
+.build
+*~
+nytprof*
