@@ -1,16 +1,16 @@
 package Devel::Confess::Source::Patch::ExcludePackage;
 
-# AUTHORITY
-# DATE
-# DIST
-# VERSION
-
 use 5.010001;
 use strict;
 no warnings;
 
 use Module::Patch;
 use base qw(Module::Patch);
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 our %config;
 
